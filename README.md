@@ -2,7 +2,7 @@
 
 A 2D Pixel Art game written in Python.
 
-This project was a collaboration with designer **Jeonghye Yoon**, who brilliantly created the images and established the overall feel of the game.
+This project was a collaboration with designer **Jeonghye Yoon**, who created the images and established the overall feel of the game!
 
 In South Korea, there is a well-known deal at almost every convenience store colloquially known as the "Four For Ten". The deal is simple, four beers for 10k Korean won. But, not every beer is included in the deal.
 
