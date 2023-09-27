@@ -1,6 +1,6 @@
 # "Four For Ten"
 
-A 2D Pixel Art Game Written In Python.
+A 2D Pixel Art game written in Python.
 
 This project was a collaboration with designer **Jeonghye Yoon**, who brilliantly created the images and established the overall feel of the game.
 
